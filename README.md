@@ -11,11 +11,11 @@
 <div align="center">
 <p align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=Xavier-Alfred&show_icons=true&&title_color=03E6FF&text_color=9f9f9f&theme=radical" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Xavier-Alfred&theme=light&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Xavier-Alfred&theme=darkt&hide_border=true" />
 </p>
 </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-Alred&hide=html&title_color=03E6FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" />
 <summary><b>🏆 Github Achievements</b></summary><br>
-<p> <a href="https://github.com/Xavier-Alfred"><img src="https://github-profile-trophy.vercel.app/?username=Xavier-Alfred" alt="Xavier-Alfred" /></a> </p>
+<p> <a href="https://github.com/Xavier-Alfred"><img src="https://github-profile-trophy.vercel.app/?username=xavier-alfred" alt="Xavier-Alfred" /></a> </p>
 
